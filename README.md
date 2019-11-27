@@ -1,8 +1,8 @@
-#cars.sh 
+# cars.sh 
  
-###This repo contains a bash script named “cars.sh” that will help a user maintain an inventory of old cars.
+### This repo contains a bash script named “cars.sh” that will help a user maintain an inventory of old cars.
  
-####The user will be presented with a menu of three options: 
+#### The user will be presented with a menu of three options: 
 	1) entering "1": allows the user to enter a new car to the My_old_cars 	
 	ext file by prompting the user for the year, make, and model one at a t
 	me.
